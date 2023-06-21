@@ -33,6 +33,8 @@ EOF
 
 ```
 
+## Add chatgpt to ~/../usr/bin
+
 ```
 echo "python ~/chatgpt.py" >>~/../usr/bin/chatgpt
  
