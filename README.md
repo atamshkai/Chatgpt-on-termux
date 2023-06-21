@@ -1,4 +1,4 @@
-## Chatgpt-on-termux
+# Chatgpt-on-termux
 
 ### First,we need to get our own api key from our account
 
