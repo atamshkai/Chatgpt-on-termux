@@ -14,6 +14,8 @@ pkg update -y && pkg install python -y && pip install openai
 
 # Add your openai api key in line 4
  
+```
+
 cat <<EOF > ~/chatgpt.py
 import openai
 import os
