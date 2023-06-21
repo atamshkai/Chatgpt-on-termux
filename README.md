@@ -1,6 +1,6 @@
 ## Chatgpt-on-termux
 
-## Generate Your Own OPENAI_Key From Here And Change It.
+### Generate Your Own OPENAI_Key From Here And Change It.
 
 https://platform.openai.com/account/api-keys
 
@@ -12,7 +12,7 @@ pkg update -y && pkg install python -y && pip install openai
 
 ```
 
-# Add your openai api key in line 4
+## Add your openai api key in line 4
  
 ```
 
@@ -44,6 +44,6 @@ chatgpt
 
 ```
 
-# Watch Video Here
+## Watch Video Here
 
 https://youtu.be/PzrC_9655u4
