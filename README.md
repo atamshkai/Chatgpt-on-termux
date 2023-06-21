@@ -16,7 +16,7 @@ pkg update -y && pkg install python -y && pip install openai
 
 ```
 
-## Add your openai api key in line 4
+## Change your openai api key in line 4 and paste it to termux
  
 ```
 
