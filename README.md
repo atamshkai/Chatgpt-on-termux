@@ -1,5 +1,7 @@
 # Chatgpt-on-termux
 
+![](https://raw.githubusercontent.com/atamshkai/Chatgpt-on-termux/main/Screenshot_2023-06-22-00-52-39-625_com.termux.jpg)
+
 ### First,we need to get our own api key from our account
 
 ### Generate Your Own OPENAI_Key From Here.
