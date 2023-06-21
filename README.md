@@ -1,6 +1,6 @@
-# Chatgpt-on-termux
+## Chatgpt-on-termux
 
-# Generate Your Own OPENAI_Key From Here And Change It.
+## Generate Your Own OPENAI_Key From Here And Change It.
 
 https://platform.openai.com/account/api-keys
 
@@ -9,6 +9,10 @@ https://platform.openai.com/account/api-keys
 ```
 
 pkg update -y && pkg install python -y && pip install openai
+
+```
+
+# Add your openai api key in line 4
  
 cat <<EOF > ~/chatgpt.py
 import openai
@@ -24,7 +28,10 @@ while keep_prompting:
         response=openai.Completion.create(engine='text-davinci-003',prompt=prompt,max_tokens=200)
         print(response['choices'][0]['text'])
 EOF
- 
+
+```
+
+```
 echo "python ~/chatgpt.py" >>~/../usr/bin/chatgpt
  
 chmod +x ~/../usr/bin/chatgpt
