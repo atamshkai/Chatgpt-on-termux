@@ -6,7 +6,7 @@ https://platform.openai.com/account/api-keys
 
 ## Installation
 
-'''
+```
 
 pkg update -y && pkg install python -y && pip install openai
  
@@ -31,7 +31,7 @@ chmod +x ~/../usr/bin/chatgpt
  
 chatgpt
 
-'''
+```
 
 # Watch Video Here
 
