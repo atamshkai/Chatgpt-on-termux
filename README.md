@@ -1,6 +1,8 @@
 ## Chatgpt-on-termux
 
-### Generate Your Own OPENAI_Key From Here And Change It.
+### First,we need to get our own api key from our account
+
+### Generate Your Own OPENAI_Key From Here.
 
 https://platform.openai.com/account/api-keys
 
